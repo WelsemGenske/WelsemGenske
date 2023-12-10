@@ -3,7 +3,7 @@
 
   # Hi, I’m Welsem Genske
 Eu sou biomedico formado. No entanto, estou dando meus primerios passos em aprender programação.     
-Espero conseguir contribuir com a comunidade, nao producao dos meus codigos. :relaxed:
+Espero conseguir evoluir no meu aprendizado, contribuindo com a comunidade. :relaxed:
   </h1>
   
 
